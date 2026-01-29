@@ -56,7 +56,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohdamer1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Adding%20manpower%20to%20a%20late%20software%20project%20makes%20it%20later.&author=Fred%)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mohdamer1&icon=0&color=0)](https://visitcount.itsvg.in)
