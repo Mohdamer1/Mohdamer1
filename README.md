@@ -1,9 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on web applications, AI agents, and backend systems using Node.js and Python  <br>
-👯 I’m looking to collaborate on AI-driven and full-stack projects  <br>
-🌱 I’m an AI-first developer and use AI tools to build projects in different languages and frameworks  <br>
-💬 Ask me about AI, full-stack development, backend systems, system design, deployment, and GitHub  <br>
-⚡ Fun fact: I like studying existing products and improving their UI and user experience
+🔭 I'm an AI Engineer building intelligent applications with Python, FastAPI, LLMs, RAG, LangChain, and cloud technologies.
+
+🤖 I enjoy developing AI agents, workflow automations, and production-ready AI solutions that solve real business problems.
+
+🌱 I'm continuously exploring the latest AI models, frameworks, and developer tools to improve productivity and build better software.
+
+💬 Ask me about Python, AI Engineering, LLMs, RAG, FastAPI, LangChain, OpenAI APIs, AWS, system design, backend development, and API integrations.
+
+⚡ Fun fact: I enjoy reverse-engineering products to understand how they're built and identifying ways to improve their user experience and functionality.
 
 
 # 💻 Tech Stack:
